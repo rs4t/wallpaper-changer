@@ -2,6 +2,8 @@
 
 A see-through wallpaper picker for Windows 10 and 11. Press a shortcut, flick through your wallpapers, hit Enter.
 
+![Wallpaper Switcher: the folder carousel opens over the desktop, a folder fans out, and picking a wallpaper applies it](docs/demo.gif)
+
 ## Install
 
 1. Download `Wallpaper Switcher Setup 1.1.0.exe` and run it.
